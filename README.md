@@ -31,7 +31,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="61" height="49" alt="linkedin logo"  />
   </a>
    <a href="https://mariaantoinette.substack.com/" target="_blank">
-    <img src="https://private-user-images.githubusercontent.com/166796077/321895319-727aae0b-b7cc-4397-9b8a-52ded13eeb1d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ0MTk4NTMsIm5iZiI6MTc1NDQxOTU1MywicGF0aCI6Ii8xNjY3OTYwNzcvMzIxODk1MzE5LTcyN2FhZTBiLWI3Y2MtNDM5Ny05YjhhLTUyZGVkMTNlZWIxZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwNVQxODQ1NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNjc5MGYyNDFjNWEyMGQ1MmFjNTJjZDg1NGNmMWZkYjlkODMyYjMzMzRhMjNhZDE4NTg4NzFhZmUwN2U3NjU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KyH-Sj2b7wltFt2alr9eC9jLVhinOPsfb4EzIkYuRfU" width="61" height="49" alt="substack logo"  />
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-substack" viewBox="0 0 16 16">
+    <path d="M15 3.604H1v1.891h14v-1.89ZM1 7.208V16l7-3.926L15 16V7.208zM15 0H1v1.89h14z"/>
+    </svg>
+    <!--img src="https://private-user-images.githubusercontent.com/166796077/321895319-727aae0b-b7cc-4397-9b8a-52ded13eeb1d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ0MTk4NTMsIm5iZiI6MTc1NDQxOTU1MywicGF0aCI6Ii8xNjY3OTYwNzcvMzIxODk1MzE5LTcyN2FhZTBiLWI3Y2MtNDM5Ny05YjhhLTUyZGVkMTNlZWIxZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwNVQxODQ1NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNjc5MGYyNDFjNWEyMGQ1MmFjNTJjZDg1NGNmMWZkYjlkODMyYjMzMzRhMjNhZDE4NTg4NzFhZmUwN2U3NjU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KyH-Sj2b7wltFt2alr9eC9jLVhinOPsfb4EzIkYuRfU" width="61" height="49" alt="substack logo"  -->
   </a>
 </div>
 
